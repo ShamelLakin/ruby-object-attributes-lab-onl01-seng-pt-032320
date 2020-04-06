@@ -15,7 +15,5 @@ class Dog
     @breed
   end 
   
-# fido = Dog.new("Fido")
-# fido.name
 end 
 
